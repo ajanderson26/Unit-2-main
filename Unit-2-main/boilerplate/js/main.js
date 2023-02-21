@@ -33,7 +33,7 @@ function onEachFeature(feature, layer) {
 //function to get the data and put it on the map
 function getData(map){
     //load the data
-    fetch("data/map.geojson")
+    fetch("data/wesandymap.geojson")
         .then(function(response){
             return response.json();
         })
