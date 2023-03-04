@@ -1,5 +1,33 @@
-#map { height: 700px;
-width: 1500px; 
+#map {    
+    height: 700px;    
+    width: 75%;
+    display: inline-block;
+    };
+
+    #panel {    
+        width: 20%;    
+        padding: 20px;
+        display: inline-block;
+        vertical-align: top;
+        text-align: center;
+        line-height: 42px;
+    };
+    .range-slider{
+        width: 75%
+    }
+.step{
+    width: 100px;
+    
+}
+.step img {
+    width: 75px;
+   
+}
+#reverse-img {
+    float: left;
 }
 
+#forward-img {
+    float: right;
+}
     
