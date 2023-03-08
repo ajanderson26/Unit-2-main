@@ -76,8 +76,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.9708,
-                    40.68295
+                    -73.7949,
+                    40.7282
                 ]
             }
         },
@@ -188,8 +188,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.9364,
-                    40.753453
+                    -73.976873,
+                    40.578738
                 ]
             }
         },
@@ -212,31 +212,31 @@
         {
             "type": "Feature",
             "properties": {
-                "Movie": "Fantastic Mr. Fox",
-                "Date": 2007,
+                "Movie": " The Fantastic Mr. Fox",
+                "Date": 2009,
                 "Filming_location": "New York City, New York, United States",
                 "est_budget": 40000000
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -73.9708,
-                    40.68295
+                    -73.8648,
+                    40.8448
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "Movie": "Fantastic Mr. Fox",
+                "Movie": " The Fantastic Mr. Fox",
                 "Date": 2009,
-                "Filming_location": "London, UK",
+                "Filming_location": "London, England, UK",
                 "est_budget": 40000000
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.099076,
+                    -0.099078,
                     51.509648
                 ]
             }
@@ -588,7 +588,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -0.099076,
+                    -0.099089,
                     51.509648
                 ]
             }

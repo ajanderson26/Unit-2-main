@@ -1,33 +1,88 @@
-#map {    
-    height: 700px;    
-    width: 75%;
+#map {
+    height: 700px;
+    width: 100%;
     display: inline-block;
-    };
+}
 
-    #panel {    
-        width: 20%;    
-        padding: 20px;
-        display: inline-block;
-        vertical-align: top;
-        text-align: center;
-        line-height: 42px;
-    };
-    .range-slider{
-        width: 75%
-    }
-.step{
-    width: 100px;
-    
+#panel {
+    width: 20%;
+    padding: 20px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    line-height: 42px;
 }
+
+.sequence-control-container {
+    width: 350px;
+    height: 40px;
+    background-color: #b1effb;
+    padding: 10px;
+    line-height: 45px;
+    text-align: center;
+    border: #f471c0 3px;
+
+}
+
+.legend-text {
+    color: rgb(6, 74, 152);
+    font-size: 20px;
+    text-align: right;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-weight: 100;
+    text-align: center;
+}
+.title-style{
+    color: rgb(6, 74, 152);
+    font-size: 40px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-weight: 100;
+    text-align: center;
+}
+
+.control-legend {
+    width: 200px;
+    height: 150px;
+    background-color: #b1effb;
+    border: #f471c0 3px;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 10px;
+    font-size: 10px;
+    text-align: right;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-weight: 100;
+    color: rgb(6, 74, 152);
+}
+.legend-text-nums{
+    fill:rgb(6, 74, 152);;
+}
+.paragraph-style {
+    color: rgb(6, 74, 152);
+    font-size: 15px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-weight: 100;
+    text-align: center
+}
+
+.range-slider {
+    width: 200px;
+}
+
+.step {
+    width: 50px;
+
+}
+
 .step img {
-    width: 75px;
-   
+    width: 35px;
+
 }
-#reverse-img {
+
+#reverse {
     float: left;
 }
 
-#forward-img {
+#forward {
     float: right;
 }
-    
