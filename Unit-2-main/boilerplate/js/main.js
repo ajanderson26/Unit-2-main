@@ -22,7 +22,7 @@ function createMap() {
         center: [0, 0],
         zoom: 2,
         minZoom: 2,
-        maxZoom: 10,
+        maxZoom: 15,
     scrollWheelZoom: false,
     doubleClickZoom: true
 
